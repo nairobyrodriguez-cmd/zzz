@@ -8,9 +8,9 @@
 
 ![WhatsApp Image 2025-08-29 at 22 36 41](https://github.com/user-attachments/assets/16285aa5-4878-4b4a-b150-d5c124efc88a)
 
-# DESCRIPCIÓN DE LOS MIEMBROS DEL GRUPO*
+# DESCRIPCIÓN DE LOS MIEMBROS DEL GRUPO
 
-- 1.) Nairoby Alberta Yesenia Rodriguez Uyen
+**1.) Nairoby Alberta Yesenia Rodriguez Uyen**
 
 EDAD: 19 AÑOS
 
@@ -24,7 +24,7 @@ ROL: Coordinación general, programación y modelado 3D:
 
 - Organizar los entregables del grupo
 
-- 2.) David Ferroa
+**2.) David Ferroa**
 EDAD: 17 AÑOS
 
 PASATIEMPO: Escribir, escuchar musica, bailar y mi interes en el área de Ingeniería Biomedica es: Tejidos y señales médicas.
@@ -33,7 +33,7 @@ ROL: Líder de comunicación:
 
 - Responsable de redactar reportes, guias y bitacoras
 
-- 3.) Nicolas Barco
+**3.) Nicolas Barco**
 EDAD: 17 AÑOS
 
 PASATIEMPO: Leer, escuchar música, aprender idiomas y me interesa el área de señales médicas y biomateriales
@@ -43,7 +43,7 @@ ROL: Diseño y Electrónica:
 - Se encarga de realizar los circuitos del prototipo
 - Se asegura que los sensores funcionen adecuadamente
 
-- 4.) Kiefer Jara
+**4.) Kiefer Jara**
 EDAD: 17 AÑOS
 
 PASATIEMPO: Me gusta jugar Pokemon Showdown y me interesa el área de clínica y la de biomateriales
@@ -53,7 +53,7 @@ ROL: Tester/Control de calidad:
 - Verifica que los diseños, circuitos y programas funcionen
 - Hace pruebas finales antes de la entrega
 
-- 5.) Sebastian Huari
+**5.) Sebastian Huari**
 EDAD: 17 AÑOS
 
 PASATIEMPO: Jugar tennis y mi interes en Ingeniería Biomedica es Ingeniería de Tejidos
@@ -62,7 +62,7 @@ ROL: Programación y Circuitos:
 
 - Encargado del proceso de codigo necesario para el proyecto
 
-- 6.) Gonzalo Barona
+**6.) Gonzalo Barona**
 EDAD: 17 AÑOS
 
 PASATIEMPO: Me gusta leeer y me interesa el área de Biomecanica y Rehabilitación e Ingeniería de Tejidos
