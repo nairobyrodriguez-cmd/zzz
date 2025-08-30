@@ -5,9 +5,11 @@
 - Somos estudiantes de Ingeniería Biomédica PUCP–UPCH del horario PIB2 del curso "Procesos de Innovación en Bioingeniería". Este repositorio recopila el proyecto desarrollado durante el ciclo, que integra programación, electrónica y prototipado 3D. Su objetivo es proponer soluciones que mejoren la calidad de vida de las personas y contribuyan al avance tecnológico en el ámbito de la salud en el país.
 
 ### INTEGRANTES DEL GRUPO
+
 ![WhatsApp Image 2025-08-29 at 22 36 41](https://github.com/user-attachments/assets/16285aa5-4878-4b4a-b150-d5c124efc88a)
 
-*DESCRIPCIÓN DE LOS MIEMBROS DEL GRUPO*
+#### DESCRIPCIÓN DE LOS MIEMBROS DEL GRUPO*
+
 - 1.) Nairoby Alberta Yesenia Rodriguez Uyen
 
 EDAD: 19 AÑOS
@@ -70,7 +72,8 @@ ROL: Gestor de materiales y logística:
 - Encargada de conseguir materiales requeridos
 - Corroborar la seguridad del equipo
 
-*GRACIAS POR VISITAR NUESTRO REPOSITORIO
+##### GRACIAS POR VISITAR NUESTRO REPOSITORIO
+
 - Esperamos que la revisión de este repositorio motive a más personas a involucrarse en el desarrollo de soluciones innovadoras en tecnología médica. Con iniciativas como esta buscamos aportar al fortalecimiento del sistema de salud nacional y promover una atención de calidad que llegue a todas las regiones del país.
 
 
