@@ -25,6 +25,7 @@ ROL: Coordinación general, programación y modelado 3D:
 - Organizar los entregables del grupo
 
 **2.) David Alejandro Ferroa Mejia**
+
 ![WhatsApp Image 2025-08-30 at 18 34 21](https://github.com/user-attachments/assets/6f996540-b214-4970-92e5-63398e9896fb)
 
 EDAD: 17 AÑOS
@@ -36,6 +37,7 @@ ROL: Líder de comunicación:
 - Responsable de redactar reportes, guias y bitacoras
 
 **3.) Nicolas Matias Barco Robles**
+
 ![WhatsApp Image 2025-08-30 at 18 00 01](https://github.com/user-attachments/assets/80068e13-009a-4506-b432-05fd9eb0255d)
 
 EDAD: 17 AÑOS
@@ -58,6 +60,7 @@ ROL: Tester/Control de calidad:
 - Hace pruebas finales antes de la entrega
 
 **5.) Sebastian Diego Huari Rivera**
+
 ![WhatsApp Image 2025-08-30 at 18 04 51](https://github.com/user-attachments/assets/23ffab74-273c-4eb1-a05c-47e188955512)
 
 EDAD: 18 AÑOS
@@ -69,6 +72,7 @@ ROL: Programación y Circuitos:
 - Encargado del proceso de codigo necesario para el proyecto
 
 **6.) Gonzalo Ernesto Barona Rosas**
+
 ![WhatsApp Image 2025-08-30 at 18 25 54 (1)](https://github.com/user-attachments/assets/5ef323dd-9be3-4150-bda5-67a147bba53a)
 
 EDAD: 17 AÑOS
@@ -80,6 +84,7 @@ ROL: Gestor de materiales y logística:
 - Corroborar la seguridad del equipo
 
 # GRACIAS POR VISITAR NUESTRO REPOSITORIO
+
 <img width="1024" height="1024" alt="ChatGPT Image 30 ago 2025, 21_11_52" src="https://github.com/user-attachments/assets/2f05885d-397e-4d94-a9cf-55d9f9987e2d" />
 
 
