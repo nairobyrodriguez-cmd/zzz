@@ -14,7 +14,7 @@
 
 EDAD: 19 AÑOS
 
-PASATIEMPO: Leer, escribir, pasar tiempo con mi familia y mi interés en el área de Ingeniería Biomedica es tejidos y biomateriales.
+PASATIEMPO: Leer, escribir, pasar tiempo con mi familia y mi interés en el área de Ingeniería Biomedica es: Tejidos y biomateriales.
 
 ROL: Coordinación general, programación y modelado 3D:
 
@@ -24,19 +24,23 @@ ROL: Coordinación general, programación y modelado 3D:
 
 - Organizar los entregables del grupo
 
-**2.) David Ferroa**
+**2.) David Alejandro Ferroa Mejia**
+![WhatsApp Image 2025-08-30 at 18 34 21](https://github.com/user-attachments/assets/6f996540-b214-4970-92e5-63398e9896fb)
+
 EDAD: 17 AÑOS
 
-PASATIEMPO: Escribir, escuchar musica, bailar y mi interes en el área de Ingeniería Biomedica es: Tejidos y señales médicas.
+PASATIEMPO: Ver peliculas, PC cancela Final, estudiar y mi interes en el área de Ingeniería Biomedica es: Tejidos y señales médicas.
 
 ROL: Líder de comunicación:
 
 - Responsable de redactar reportes, guias y bitacoras
 
-**3.) Nicolas Barco**
+**3.) Nicolas Matias Barco Robles**
+![WhatsApp Image 2025-08-30 at 18 00 01](https://github.com/user-attachments/assets/80068e13-009a-4506-b432-05fd9eb0255d)
+
 EDAD: 17 AÑOS
 
-PASATIEMPO: Leer, escuchar música, aprender idiomas y me interesa el área de señales médicas y biomateriales
+PASATIEMPO: Hacer deporte, jugar video juegos, estudiar y mi interes en el área de Ingeniería Biomedica es: Clinica y biomecanica
 
 ROL: Diseño y Electrónica:
 
@@ -53,26 +57,31 @@ ROL: Tester/Control de calidad:
 - Verifica que los diseños, circuitos y programas funcionen
 - Hace pruebas finales antes de la entrega
 
-**5.) Sebastian Huari**
-EDAD: 17 AÑOS
+**5.) Sebastian Diego Huari Rivera**
+![WhatsApp Image 2025-08-30 at 18 04 51](https://github.com/user-attachments/assets/23ffab74-273c-4eb1-a05c-47e188955512)
 
-PASATIEMPO: Jugar tennis y mi interes en Ingeniería Biomedica es Ingeniería de Tejidos
+EDAD: 18 AÑOS
+
+PASATIEMPO: Jugar videojuegos, cocinar, averiguar curiosidades y mi interes en Ingeniería Biomedica es: Biomecanica y señales medicas
 
 ROL: Programación y Circuitos:
 
 - Encargado del proceso de codigo necesario para el proyecto
 
-**6.) Gonzalo Barona**
+**6.) Gonzalo Ernesto Barona Rosas**
+![WhatsApp Image 2025-08-30 at 18 25 54 (1)](https://github.com/user-attachments/assets/5ef323dd-9be3-4150-bda5-67a147bba53a)
+
 EDAD: 17 AÑOS
 
-PASATIEMPO: Me gusta leeer y me interesa el área de Biomecanica y Rehabilitación e Ingeniería de Tejidos
-
+PASATIEMPO: Me gusta leeer y mi interes en Ingeniería Biomedica es: Biomecanica y Rehabilitación e Ingeniería de Tejidos
 ROL: Gestor de materiales y logística:
 
 - Encargada de conseguir materiales requeridos
 - Corroborar la seguridad del equipo
 
 # GRACIAS POR VISITAR NUESTRO REPOSITORIO
+<img width="1024" height="1024" alt="ChatGPT Image 30 ago 2025, 21_11_52" src="https://github.com/user-attachments/assets/2f05885d-397e-4d94-a9cf-55d9f9987e2d" />
+
 
 - Esperamos que la revisión de este repositorio motive a más personas a involucrarse en el desarrollo de soluciones innovadoras en tecnología médica. Con iniciativas como esta buscamos aportar al fortalecimiento del sistema de salud nacional y promover una atención de calidad que llegue a todas las regiones del país.
 
