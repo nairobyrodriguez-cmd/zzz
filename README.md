@@ -11,6 +11,7 @@
 # DESCRIPCIÓN DE LOS MIEMBROS DEL GRUPO
 
 **1.) Nairoby Alberta Yesenia Rodriguez Uyen**
+![WhatsApp Image 2025-09-03 at 22 00 03](https://github.com/user-attachments/assets/c7ee3948-5392-4b2b-b8e5-62c6e2aee1d4)
 
 EDAD: 19 AÑOS
 
@@ -49,10 +50,13 @@ ROL: Diseño y Electrónica:
 - Se encarga de realizar los circuitos del prototipo
 - Se asegura que los sensores funcionen adecuadamente
 
-**4.) Kiefer Jara**
+**4.) Kiefer Jaleck Jara Canchari**
+
+![WhatsApp Image 2025-09-03 at 21 56 57](https://github.com/user-attachments/assets/5031f61a-e2ec-42c0-ba96-7376ec63a3ac)
+
 EDAD: 17 AÑOS
 
-PASATIEMPO: Me gusta jugar Pokemon Showdown y me interesa el área de clínica y la de biomateriales
+PASATIEMPO: Me gusta tocar la guitarra, pasear a mi perro, jugar en la pc y me interesa el área de clínica y la de biomateriales
 
 ROL: Tester/Control de calidad:
 
