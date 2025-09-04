@@ -11,6 +11,7 @@
 # DESCRIPCIÓN DE LOS MIEMBROS DEL GRUPO
 
 **1.) Nairoby Alberta Yesenia Rodriguez Uyen**
+
 ![WhatsApp Image 2025-09-03 at 22 00 03](https://github.com/user-attachments/assets/c7ee3948-5392-4b2b-b8e5-62c6e2aee1d4)
 
 EDAD: 19 AÑOS
