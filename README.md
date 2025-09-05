@@ -40,7 +40,8 @@ ROL: Líder de comunicación:
 
 **3.) Nicolas Matias Barco Robles**
 
-![WhatsApp Image 2025-08-30 at 18 00 01](https://github.com/user-attachments/assets/80068e13-009a-4506-b432-05fd9eb0255d)
+![WhatsApp Image 2025-08-30 at 18 00 01 (1)](https://github.com/user-attachments/assets/0cd83440-cba3-4ce9-9da9-962495fbb182)
+
 
 EDAD: 17 AÑOS
 
