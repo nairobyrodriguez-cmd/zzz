@@ -40,7 +40,7 @@ ROL: Líder de comunicación:
 
 **3.) Nicolas Matias Barco Robles**
 
-! <img width="133" height="143" alt="image" src="https://github.com/user-attachments/assets/9d3ff786-d0a2-4e3c-bfd9-b8a5c46b287b" />
+ <img width="133" height="143" alt="image" src="https://github.com/user-attachments/assets/9d3ff786-d0a2-4e3c-bfd9-b8a5c46b287b" />
 
 
 
